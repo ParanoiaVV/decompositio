@@ -1,0 +1,14 @@
+D:\Learning\Koshel_V\Декомпозиция\task8\bin\Debug\net10.0\task8.exe
+D:\Learning\Koshel_V\Декомпозиция\task8\bin\Debug\net10.0\task8.deps.json
+D:\Learning\Koshel_V\Декомпозиция\task8\bin\Debug\net10.0\task8.runtimeconfig.json
+D:\Learning\Koshel_V\Декомпозиция\task8\bin\Debug\net10.0\task8.dll
+D:\Learning\Koshel_V\Декомпозиция\task8\bin\Debug\net10.0\task8.pdb
+D:\Learning\Koshel_V\Декомпозиция\task8\obj\Debug\net10.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Koshel_V\Декомпозиция\task8\obj\Debug\net10.0\task8.AssemblyInfoInputs.cache
+D:\Learning\Koshel_V\Декомпозиция\task8\obj\Debug\net10.0\task8.AssemblyInfo.cs
+D:\Learning\Koshel_V\Декомпозиция\task8\obj\Debug\net10.0\task8.csproj.CoreCompileInputs.cache
+D:\Learning\Koshel_V\Декомпозиция\task8\obj\Debug\net10.0\task8.dll
+D:\Learning\Koshel_V\Декомпозиция\task8\obj\Debug\net10.0\refint\task8.dll
+D:\Learning\Koshel_V\Декомпозиция\task8\obj\Debug\net10.0\task8.pdb
+D:\Learning\Koshel_V\Декомпозиция\task8\obj\Debug\net10.0\task8.genruntimeconfig.cache
+D:\Learning\Koshel_V\Декомпозиция\task8\obj\Debug\net10.0\ref\task8.dll
