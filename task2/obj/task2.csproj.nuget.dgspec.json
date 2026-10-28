@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\Koshel_V\\Декомпозиция\\task2\\task2.csproj": {}
+    "d:\\Learning\\Koshel_V\\Декомпозиция\\task2\\task2.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\Koshel_V\\Декомпозиция\\task2\\task2.csproj": {
+    "d:\\Learning\\Koshel_V\\Декомпозиция\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\Koshel_V\\Декомпозиция\\task2\\task2.csproj",
+        "projectUniqueName": "d:\\Learning\\Koshel_V\\Декомпозиция\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "D:\\Learning\\Koshel_V\\Декомпозиция\\task2\\task2.csproj",
+        "projectPath": "d:\\Learning\\Koshel_V\\Декомпозиция\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\Koshel_V\\Декомпозиция\\task2\\obj\\",
+        "outputPath": "d:\\Learning\\Koshel_V\\Декомпозиция\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
